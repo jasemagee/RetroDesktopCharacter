@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetroDesktopCharacter", "RetroDesktopCharacter\RetroDesktopCharacter.csproj", "{FB7237FE-C54D-4DE9-AA97-0FDBCA3C2ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7237FE-C54D-4DE9-AA97-0FDBCA3C2ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7237FE-C54D-4DE9-AA97-0FDBCA3C2ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7237FE-C54D-4DE9-AA97-0FDBCA3C2ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7237FE-C54D-4DE9-AA97-0FDBCA3C2ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB4138B6-A6D7-4985-9871-BFD83EAD9FE1}
+	EndGlobalSection
+EndGlobal
